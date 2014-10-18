@@ -1,4 +1,4 @@
 aws-dash1
 =========
 
-aws 
+Retrieves price data from AWSnow and converts it to csv 
